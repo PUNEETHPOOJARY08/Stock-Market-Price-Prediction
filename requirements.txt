@@ -1,0 +1,16 @@
+streamlit              
+sklearn-preprocessing   
+beautifulsoup4           
+keras                     
+keras-models             
+matplotlib                
+yfinance                  
+matplotlib-inline         
+numpy                     
+pandas                    
+scikit-learn              
+tensorflow                
+tensorflow-intel          
+
+
+Google-colab-Link = https://colab.research.google.com/drive/1v0bcpYNRBOEcrhqOtND5OdVs-DJKKZlo#scrollTo=tHIPNe4pcEoT
